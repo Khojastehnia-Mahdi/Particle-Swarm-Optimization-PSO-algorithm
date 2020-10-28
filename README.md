@@ -8,4 +8,12 @@ The solution for this problem also can be obtained using an analytical approach,
 
 I used the following reference for the PSO algorithm:
 
+B. S. G. de Almeida and V. C. Leite, Particle Swarm Optimization: A Powerful Technique for Solving Engineering Problems, in Swarm Intelligence, J. Del Ser, E. Villar, and E.Osaba, Eds. Rijeka: IntechOpen, 2019.
+
+
 and to handle inequality constraints, I used the barrier method. See the following references to get more details regarding this method:
+
+S. Boyd, L. Vandenberghe, Convex Optimization, Cambridge University Press, 2004.
+
+M. Khojastehnia, Massive MIMO Channels Under the Joint Power Constraints, University of Ottawa, 2019.
+
