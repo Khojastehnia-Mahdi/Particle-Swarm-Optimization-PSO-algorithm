@@ -17,6 +17,6 @@ and to handle inequality constraints, I used the barrier method. See the followi
 
 S. Boyd, L. Vandenberghe, Convex Optimization, Cambridge University Press, 2004.
 
-M. Khojastehnia, Massive MIMO Channels Under the Joint Power Constraints, University of Ottawa, 2019.
+Mahdi Khojastehnia, Massive MIMO Channels Under the Joint Power Constraints, University of Ottawa, 2019.
 
 
