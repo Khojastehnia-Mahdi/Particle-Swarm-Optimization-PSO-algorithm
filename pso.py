@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # The following Particle Swarm Optimization (PSO) algorithm will 
 # find the solution for the following problem:
-# min f2(x0 ,x1) s.t. x0<5 & x1>2, where f2(x0, x1) = (x0-6)**2 + (x1-0.5)**6 + 100*x1 + 10*x0
+# min f2(x0 ,x1) s.t. x0=<5 & x1>=2, where f2(x0, x1) = (x0-6)**2 + (x1-0.5)**6 + 100*x1 + 10*x0
 
 
 # We use the barrier method to handle the inequality constraints.
