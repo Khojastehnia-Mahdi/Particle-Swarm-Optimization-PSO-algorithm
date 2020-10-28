@@ -17,3 +17,5 @@ S. Boyd, L. Vandenberghe, Convex Optimization, Cambridge University Press, 2004.
 
 M. Khojastehnia, Massive MIMO Channels Under the Joint Power Constraints, University of Ottawa, 2019.
 
+
+This is a very simple version of the algorithm and the purpose was to give some basic insights about how this algorithm works. 
